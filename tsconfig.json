@@ -3,6 +3,8 @@
     "noEmit": true,
     "allowJs": true,
     "checkJs": true,
-    "esModuleInterop": true
+    "esModuleInterop": true,
+    "jsx": "react-jsx",
+    "jsxImportSource": "@emotion/react"
   }
 }
